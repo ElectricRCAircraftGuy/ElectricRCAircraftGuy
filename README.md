@@ -41,9 +41,9 @@ See some of the code from an Arduino to the back of an RC Tx (required to duplic
 
 ## You can find me at many places online:
 
-- **My Websites**: 
-    - [**GabrielStaples.com**](https://GabrielStaples.com) - my newest and current, anything-I-want Jekyll-based website. Topics I write about here include engineering and programming of course, but I want this to literally be a place I can write about _anything_, so it will also cover some of my thoughts and knowledge on finances and life skills, such as general computer skills, refinancing a house, calculating loan costs, and fixing my bike or phone. It is also where I can write about politics and religion. This is a website that is truly my own. It also allows me to write in markdown (same as this readme itself), which makes writing less burdensome. 
-    - [**ElectricRCAircraftGuy.com**](http://www.ElectricRCAircraftGuy.com) - my slightly-older, general-purpose engineering and programming website. Examples of some of my more-popular articles: <sub>
+1. **My Websites**: 
+    - [**GabrielStaples.com**](https://GabrielStaples.com) - my newest and current, anything-I-want Jekyll-based website. Topics I write about here include engineering and programming of course, but I want this to literally be a place I can write about _anything_, so it will also cover some of my thoughts and knowledge on finances and life skills, such as general computer skills, refinancing a house, calculating loan costs, and fixing my bike or phone. It is also where I can write about politics and religion. This is a website that is truly my own. Being a Jekyll site, this also allows me to write in markdown (same as this readme itself), which makes writing less burdensome. 
+    - [**ElectricRCAircraftGuy.com**](http://www.ElectricRCAircraftGuy.com) - my slightly-older, general-purpose engineering and programming website. <details> <summary>Examples of some of my more-popular articles (click to expand):</summary>
         1. [Restoring/Recharging Over-discharged LiPo (Lithium Polymer) Batteries!](https://www.electricrcaircraftguy.com/2014/10/restoring-over-discharged-LiPos.html)
         1. [Parallel Charging Your LiPo Batteries](https://www.electricrcaircraftguy.com/2013/01/parallel-charging-your-lipo-batteries_22.html)
         1. [The Power of Arduino](https://www.electricrcaircraftguy.com/2014/01/the-power-of-arduino.html)
@@ -51,17 +51,16 @@ See some of the code from an Arduino to the back of an RC Tx (required to duplic
         1. [Arduino Power, Current, and Voltage Limitations](https://www.electricrcaircraftguy.com/2014/02/arduino-power-current-and-voltage.html)
         1. [Using the Arduino Uno’s built-in 10-bit to 16+-bit ADC (Analog to Digital Converter)](https://www.electricrcaircraftguy.com/2014/05/using-arduino-unos-built-in-16-bit-adc.html)
         1. [Arduino micros() function with 0.5us precision - using my Timer2_Counter Library](https://www.electricrcaircraftguy.com/2014/02/Timer2Counter-more-precise-Arduino-micros-function.html)
-        </sub>
-    - [**OldSite.ElectricRCAircraftGuy.com**](http://oldsite.electricrcaircraftguy.com/) - my oldest website, with various useful articles which are still found here and only here.
-        - See the navigation links in the top-left corner for more articles. Example:
+    - [**OldSite.ElectricRCAircraftGuy.com**](http://oldsite.electricrcaircraftguy.com/) - my oldest website, with various useful articles which are still found here and only here. See the navigation links in the top-left corner for more articles. Examples:
         - [Page 6: Helicopter Control Explanation (Gyroscopic Precession)](http://oldsite.electricrcaircraftguy.com/page-6-helicopter-control-explanation-gyroscopic-precession)
-- **Forums (these are just a few)**:
+1. **Forums & Community Sites (these are just a few)**:
+    - [**Instructables.com--ElectricRCAircraftGuy**](https://www.instructables.com/member/ElectricRCAircraftGuy/instructables/) - see my Instructables articles here
     - [**FliteTest.com--panther3001**](https://www.flitetest.com/authors/panther3001) - see my FliteTest articles here
     - [**RCGroups.com--panther3001**](https://www.rcgroups.com/forums/member.php?u=337946)
     - [**Forum.arduino.cc--panther3001**](https://forum.arduino.cc/index.php?action=profile;u=176611)
-- [**LinkedIn**][linkedin]
+1. [**LinkedIn**][linkedin]
     - Please don't try to add me as a connection unless I can vouch for your skills.
-- [**All of my "Stack Exchange" Sites**](https://stackexchange.com/users/3032157/gabriel-staples?tab=accounts)
+1. [**All of my "Stack Exchange" Sites**](https://stackexchange.com/users/3032157/gabriel-staples?tab=accounts) <details> <summary>(click to expand)</summary>
     - Stack Overflow
     - Ask Ubuntu
     - Arduino
@@ -69,11 +68,11 @@ See some of the code from an Arduino to the back of an RC Tx (required to duplic
     - Electrical Engineering
     - Unit & Linux
     - etc.
-- [**GitHub**](https://github.com/ElectricRCAircraftGuy)
-- [**YouTube**](https://www.youtube.com/user/panther3002/videos). Examples:
-    - [**Hovering HobbyKing/Nitroplanes 3D Hawk for 4.5 min. Straight, at night!**][3dhawk]]
-- [**Instagram**](https://www.instagram.com/ercaguy/)
-- **Twitter**: 
+1. [**GitHub**](https://github.com/ElectricRCAircraftGuy)
+1. [**YouTube**](https://www.youtube.com/user/panther3002/videos). Examples:
+    - [**Hovering HobbyKing/Nitroplanes 3D Hawk for 4.5 min. Straight, at night!**][3dhawk]
+1. [**Instagram**](https://www.instagram.com/ercaguy/)
+1. **Twitter**: 
     - [Twitter (Hobby)--eRCaGuy](https://twitter.com/eRCaGuy)
     - [Twitter (Personal)--GabrielStaples3](https://twitter.com/GabrielStaples3)
 
