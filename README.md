@@ -19,6 +19,7 @@ I strive to be a [polyglot](https://www.wordreference.com/definition/polyglot). 
 > I speak English. (Hablo inglés.) (Je parle anglais.) (أنا أتكام الإنجليزية.)  
 > Hablo español. (I speak Spanish.) (Je parle espagnol.) (أنا أتكلم الاِسبانية.)  
 > Je parle un peu de français. (I speak some French.) (Hablo algo de francés.) (أنا أتكلم بعض الفرنسية.)  
+> Eu falo muito pouco de português. (I speak very little Portuguese.)  
 > انا اتكلم العربية قليلاً جداً. (I speak Arabic very little.) (Hablo muy poco de árabe.) (Je parle un petit peu l'arabe.)  
 
 I love learning about foreign people, eating foreign foods, and speaking foreign languages. I have put many thousands of hours into foreign language study--just as I have done for aeronautical engineering, electrical engineering, programming, electronics, and controls. I speak Spanish really well and have even helped translate official medical training documents. French is my next best, and is my current area of study. Next comes Portuguese, which I have the least formal training in, but speak next best because it's like a blend of Spanish and French. Lastly, comes Arabic. Although I technically have a minor in it, I'm not conversational in the slightest. Nevertheless, I can read and write it, and I know the alphabet. I have put a great deal of effort into proper pronunciation so I can read and write and make all the sounds. 
