@@ -61,7 +61,7 @@ See some of the code from an Arduino to the back of an RC Tx (required to duplic
     - [**OldSite.ElectricRCAircraftGuy.com**](http://oldsite.electricrcaircraftguy.com/) - my oldest website, with various useful articles which are still found here and only here. See the navigation links in the top-left corner for more articles. Examples:
         - [Page 6: Helicopter Control Explanation (Gyroscopic Precession)](http://oldsite.electricrcaircraftguy.com/page-6-helicopter-control-explanation-gyroscopic-precession)
 1. **Forums & Community Sites (these are just a few)**:
-    - [**Gumroad--@gabrielstaples**](https://gumroad.com/gabrielstaples) - download some things I've made here. Note: Gumroad is intended to be a place you can BUY ($$) things. So, I have some downloads for sale here, though most are _no cost_ ($0.00) but allow an _optional_ payment or "donation" to support my work if you so choose. 
+    - [**Gumroad--@gabrielstaples**](https://gumroad.com/gabrielstaples) - download some things I've made here. Note: Gumroad is intended to be a place you can BUY (pay $$ for) things. So, I have some downloads for sale here, though most are _no cost_ ($0.00) but allow an _optional_ payment or "donation" to support my work if you so choose. 
     - [**Instructables.com--@ElectricRCAircraftGuy**](https://www.instructables.com/member/ElectricRCAircraftGuy/instructables/) - see my Instructables articles here
     - [**FliteTest.com--@panther3001**](https://www.flitetest.com/authors/panther3001) - see my FliteTest articles here
     - [**RCGroups.com--@panther3001**](https://www.rcgroups.com/forums/member.php?u=337946)
