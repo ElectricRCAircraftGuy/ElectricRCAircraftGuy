@@ -45,6 +45,9 @@ See some of the code from an Arduino to the back of an RC Tx (required to duplic
 
 ## You can find me at many places online:
 
+<details>
+<summary><b>(click to expand)</b></summary>
+
 1. **My Websites**: 
     - [**GabrielStaples.com**](https://GabrielStaples.com) - my newest and current, anything-I-want Jekyll-based website. Topics I write about here include engineering and programming of course, but I want this to literally be a place I can write about _anything_, so it will also cover some of my thoughts and knowledge on finances and life skills, such as general computer skills, refinancing a house, calculating loan costs, and fixing my bike or phone. It is also where I can write about politics and religion. This is a website that is truly my own. Being a Jekyll site, this also allows me to write in markdown (same as this readme itself), which makes writing less burdensome. 
     - [**ElectricRCAircraftGuy.com**](http://www.ElectricRCAircraftGuy.com) - my slightly-older, general-purpose engineering and programming website. <details> <summary>Examples of some of my more-popular articles (click to expand):</summary>
@@ -79,6 +82,8 @@ See some of the code from an Arduino to the back of an RC Tx (required to duplic
 1. **Twitter**: 
     - [**Twitter (Hobby)--eRCaGuy**](https://twitter.com/eRCaGuy)
     - [**Twitter (Personal)--GabrielStaples3**](https://twitter.com/GabrielStaples3)
+
+</details>
 
 
   [quadcopter1]: https://www.youtube.com/watch?v=LjuPA43HceQ
