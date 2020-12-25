@@ -1,5 +1,5 @@
 
-# Hi, I'm Gabriel Staples
+# Hi, I'm Gabriel Staples 👋
 
 <img align="left" width="18%" src="eRCaGuy_logo.png">
 
