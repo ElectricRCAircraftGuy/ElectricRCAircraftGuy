@@ -77,8 +77,8 @@ See some of the code from an Arduino to the back of an RC Tx (required to duplic
     - [**Hovering HobbyKing/Nitroplanes 3D Hawk for 4.5 min. Straight, at night!**][3dhawk]
 1. [**Instagram**](https://www.instagram.com/ercaguy/)
 1. **Twitter**: 
-    - [Twitter (Hobby)--eRCaGuy](https://twitter.com/eRCaGuy)
-    - [Twitter (Personal)--GabrielStaples3](https://twitter.com/GabrielStaples3)
+    - [**Twitter (Hobby)--eRCaGuy**](https://twitter.com/eRCaGuy)
+    - [**Twitter (Personal)--GabrielStaples3**](https://twitter.com/GabrielStaples3)
 
 
   [quadcopter1]: https://www.youtube.com/watch?v=LjuPA43HceQ
