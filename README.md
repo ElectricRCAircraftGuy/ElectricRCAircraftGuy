@@ -61,10 +61,10 @@ See some of the code from an Arduino to the back of an RC Tx (required to duplic
     - [**OldSite.ElectricRCAircraftGuy.com**](http://oldsite.electricrcaircraftguy.com/) - my oldest website, with various useful articles which are still found here and only here. See the navigation links in the top-left corner for more articles. Examples:
         - [Page 6: Helicopter Control Explanation (Gyroscopic Precession)](http://oldsite.electricrcaircraftguy.com/page-6-helicopter-control-explanation-gyroscopic-precession)
 1. **Forums & Community Sites (these are just a few)**:
-    - [**Instructables.com--ElectricRCAircraftGuy**](https://www.instructables.com/member/ElectricRCAircraftGuy/instructables/) - see my Instructables articles here
-    - [**FliteTest.com--panther3001**](https://www.flitetest.com/authors/panther3001) - see my FliteTest articles here
-    - [**RCGroups.com--panther3001**](https://www.rcgroups.com/forums/member.php?u=337946)
-    - [**Forum.arduino.cc--panther3001**](https://forum.arduino.cc/index.php?action=profile;u=176611)
+    - [**Instructables.com--@ElectricRCAircraftGuy**](https://www.instructables.com/member/ElectricRCAircraftGuy/instructables/) - see my Instructables articles here
+    - [**FliteTest.com--@panther3001**](https://www.flitetest.com/authors/panther3001) - see my FliteTest articles here
+    - [**RCGroups.com--@panther3001**](https://www.rcgroups.com/forums/member.php?u=337946)
+    - [**Forum.arduino.cc--@panther3001**](https://forum.arduino.cc/index.php?action=profile;u=176611)
 1. [**LinkedIn**][linkedin]
     - Please don't try to add me as a connection unless I can vouch for your skills.
 1. [**All of my "Stack Exchange" Sites**](https://stackexchange.com/users/3032157/gabriel-staples?tab=accounts) <details> <summary>(click to expand)</summary>
@@ -76,8 +76,8 @@ See some of the code from an Arduino to the back of an RC Tx (required to duplic
     - Unit & Linux
     - etc.
 1. [**GitHub**](https://github.com/ElectricRCAircraftGuy)
-1. [**YouTube--ElectricRCAircraftGuy (@eRCaGuy) Channel**](https://www.youtube.com/ElectricRCAircraftGuy). Examples:
-    - [**Hovering HobbyKing/Nitroplanes 3D Hawk for 4.5 min. Straight, at night!**][3dhawk]
+1. [**YouTube--@eRCaGuy** (ElectricRCAircraftGuy) Channel](https://www.youtube.com/ElectricRCAircraftGuy). Examples:
+    - [Hovering HobbyKing/Nitroplanes 3D Hawk for 4.5 min. Straight, at night!][3dhawk]
 1. [**Instagram--@ercaguy**](https://www.instagram.com/ercaguy/)
 1. **Twitter**: 
     - [**Twitter (Hobby)--@eRCaGuy**](https://twitter.com/eRCaGuy)
