@@ -52,9 +52,9 @@ See some of the code from an Arduino to the back of an RC Tx (required to duplic
 <details>
 <summary><b>(click to expand)</b></summary>
 
-1. **My Websites**: 
-    - [**GabrielStaples.com**](https://GabrielStaples.com) - my newest and current, anything-I-want Jekyll-based website. Topics I write about here include engineering and programming of course, but I want this to literally be a place I can write about _anything_, so it will also cover some of my thoughts and knowledge on finances and life skills, such as general computer skills, refinancing a house, calculating loan costs, and fixing my bike or phone. It is also where I can write about politics and religion. This is a website that is truly my own. Being a Jekyll site, this also allows me to write in markdown (same as this readme itself), which makes writing less burdensome. 
-    - [**ElectricRCAircraftGuy.com**](http://www.ElectricRCAircraftGuy.com) - my slightly-older, general-purpose engineering and programming website. <details> <summary>Examples of some of my more-popular articles (click to expand):</summary>
+1. **My Websites** (listed newest first): 
+    1. [**GabrielStaples.com**](https://GabrielStaples.com) - my newest and current, anything-I-want Jekyll-based website. Topics I write about here include engineering and programming of course, but I want this to literally be a place I can write about _anything_, so it will also cover some of my thoughts and knowledge on finances and life skills, such as general computer skills, refinancing a house, calculating loan costs, and fixing my bike or phone. It is also where I can write about politics and religion. This is a website that is truly my own. Being a Jekyll site, this also allows me to write in markdown (same as this readme itself), which makes writing less burdensome. 
+    1. [**ElectricRCAircraftGuy.com**](http://www.ElectricRCAircraftGuy.com) - my slightly-older, general-purpose engineering and programming website. <details> <summary>Examples of some of my more-popular articles (click to expand):</summary>
         1. [Restoring/Recharging Over-discharged LiPo (Lithium Polymer) Batteries!](https://www.electricrcaircraftguy.com/2014/10/restoring-over-discharged-LiPos.html)
         1. [Parallel Charging Your LiPo Batteries](https://www.electricrcaircraftguy.com/2013/01/parallel-charging-your-lipo-batteries_22.html)
         1. [The Power of Arduino](https://www.electricrcaircraftguy.com/2014/01/the-power-of-arduino.html)
@@ -62,31 +62,33 @@ See some of the code from an Arduino to the back of an RC Tx (required to duplic
         1. [Arduino Power, Current, and Voltage Limitations](https://www.electricrcaircraftguy.com/2014/02/arduino-power-current-and-voltage.html)
         1. [Using the Arduino Uno’s built-in 10-bit to 16+-bit ADC (Analog to Digital Converter)](https://www.electricrcaircraftguy.com/2014/05/using-arduino-unos-built-in-16-bit-adc.html)
         1. [Arduino micros() function with 0.5us precision - using my Timer2_Counter Library](https://www.electricrcaircraftguy.com/2014/02/Timer2Counter-more-precise-Arduino-micros-function.html)
-    - [**OldSite.ElectricRCAircraftGuy.com**](http://oldsite.electricrcaircraftguy.com/) - my oldest website, with various useful articles which are still found here and only here. See the navigation links in the top-left corner for more articles. Examples:
+    1. [**OldSite.ElectricRCAircraftGuy.com**](http://oldsite.electricrcaircraftguy.com/) - my oldest website, with various useful articles which are still found here and only here. See the navigation links in the top-left corner for more articles. Examples:
         - [Page 6: Helicopter Control Explanation (Gyroscopic Precession)](http://oldsite.electricrcaircraftguy.com/page-6-helicopter-control-explanation-gyroscopic-precession)
 1. **Forums & Community Sites (these are just a few)**:
-    - [**Gumroad.com--@gabrielstaples**](https://gumroad.com/gabrielstaples) - download some things I've made here. Note: Gumroad is intended to be a place you can BUY (pay $$ for) things. So, I have some downloads for sale here, though most are _no cost_ ($0.00) but allow an _optional_ payment or "donation" to support my work if you so choose. 
-    - [**Instructables.com--@ElectricRCAircraftGuy**](https://www.instructables.com/member/ElectricRCAircraftGuy/instructables/) - see my Instructables articles here
-    - [**FliteTest.com--@panther3001**](https://www.flitetest.com/authors/panther3001) - see my FliteTest articles here
-    - [**RCGroups.com--@panther3001**](https://www.rcgroups.com/forums/member.php?u=337946)
-    - [**Forum.arduino.cc--@panther3001**](https://forum.arduino.cc/index.php?action=profile;u=176611)
+    1. [**Wikipedia.org--@ERCaGuy**](https://en.wikipedia.org/wiki/User:ERCaGuy) - see [my contributions to Wikipedia here](https://en.wikipedia.org/w/index.php?title=Special:Contributions/ERCaGuy&offset=&limit=500&target=ERCaGuy).
+    1. [**cppreference.com--@ERCaGuy**](https://en.cppreference.com/w/User:ERCaGuy) - see [my contributions to the cppreference.com C and C++ reference documentation here](https://en.cppreference.com/w/Special:Contributions/ERCaGuy).
+    1. [**Gumroad.com--@gabrielstaples**](https://gumroad.com/gabrielstaples) - download some things I've made here. Note: Gumroad is intended to be a place you can BUY (pay $$ for) things. So, I have some downloads for sale here, though most are _no cost_ ($0.00) but allow an _optional_ payment or "donation" to support my work if you so choose. 
+    1. [**Instructables.com--@ElectricRCAircraftGuy**](https://www.instructables.com/member/ElectricRCAircraftGuy/instructables/) - see my Instructables articles here.
+    1. [**FliteTest.com--@panther3001**](https://www.flitetest.com/authors/panther3001) - see my FliteTest articles here.
+    1. [**RCGroups.com--@panther3001**](https://www.rcgroups.com/forums/member.php?u=337946)
+    1. [**Forum.arduino.cc--@panther3001**](https://forum.arduino.cc/index.php?action=profile;u=176611)
 1. [**LinkedIn**][linkedin]
     - Please don't try to add me as a connection unless I can vouch for your skills.
 1. [**All of my "Stack Exchange" Sites**](https://stackexchange.com/users/3032157/gabriel-staples?tab=accounts) <details> <summary>(click to expand)</summary>
-    - Stack Overflow
-    - Ask Ubuntu
-    - Arduino
-    - Super User
-    - Electrical Engineering
-    - Unit & Linux
-    - etc.
+    1. Stack Overflow
+    1. Ask Ubuntu
+    1. Arduino
+    1. Super User
+    1. Electrical Engineering
+    1. Unit & Linux
+    1. etc.
 1. [**GitHub**](https://github.com/ElectricRCAircraftGuy)
 1. [**YouTube--@eRCaGuy** (ElectricRCAircraftGuy) Channel](https://www.youtube.com/ElectricRCAircraftGuy). Examples:
     - [Hovering HobbyKing/Nitroplanes 3D Hawk for 4.5 min. Straight, at night!][3dhawk]
 1. [**Instagram--@ercaguy**](https://www.instagram.com/ercaguy/)
 1. **Twitter**: 
-    - [**Twitter (Hobby)--@eRCaGuy**](https://twitter.com/eRCaGuy)
-    - [**Twitter (Personal)--@GabrielStaples3**](https://twitter.com/GabrielStaples3)
+    1. [**Twitter (Hobby)--@eRCaGuy**](https://twitter.com/eRCaGuy)
+    1. [**Twitter (Personal)--@GabrielStaples3**](https://twitter.com/GabrielStaples3)
 
 </details>
 
