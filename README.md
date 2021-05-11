@@ -74,7 +74,7 @@ See some of the code from an Arduino to the back of an RC Tx (required to duplic
     1. [**RCGroups.com--@panther3001**](https://www.rcgroups.com/forums/member.php?u=337946)
     1. [**Forum.arduino.cc--@panther3001**](https://forum.arduino.cc/index.php?action=profile;u=176611)
 1. [**LinkedIn**][linkedin]
-    - Please don't try to add me as a connection unless I can vouch for your skills.
+    - Please DO _follow me_ on LinkedIn! Please don't try to _add_ me as a connection unless I can vouch for your skills.
 1. [**All of my "Stack Exchange" Sites (incl. Stack Overflow)**](https://stackexchange.com/users/3032157/gabriel-staples?tab=accounts) <details> <summary>(click to expand)</summary>
     1. Stack Overflow
     1. Ask Ubuntu
