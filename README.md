@@ -97,9 +97,7 @@ See some of the code from an Arduino to the back of an RC Tx (required to duplic
   [quadcopter1]: https://www.youtube.com/watch?v=LjuPA43HceQ
   [quadcopter2]: https://www.youtube.com/watch?v=wY3oh2GIfCI
   [quadcopter3]: https://www.youtube.com/watch?v=H5kXzpPFdII&t=35s
-  [
-  
-  ]: https://www.linkedin.com/in/gabriel-staples/
+  [linkedin]: https://www.linkedin.com/in/gabriel-staples/
   [3dhawk]: https://www.youtube.com/watch?v=nyqrlkpBXmY&t=3s
 
 
