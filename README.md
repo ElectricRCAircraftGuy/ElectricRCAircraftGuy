@@ -8,7 +8,7 @@ _Working hard to make the internet more complete._
 
 <img align="left" width="18%" src="eRCaGuy_logo.png">
 
-I'm an Idaho country guy from a small town near Boise. Where I come from, town sizes are measured in the quantity of stop lights we have. Some towns are so small they have zero. My town was a 3 stop light town. Today, it has more. Before that we were in just a 1-blinking-light town. I grew up jumping off cliffs, bridges, and railroad trestles and doing flips off of rope swings into rivers, canals, and reservoirs. For work, I shoveled poo and cleaned cow stalls, dug ditches with a pick, chopped wood, bucked hay, fed cows, irrigated fields with siphon tubes, weeded gardens, and mowed grass.
+I'm an Idaho country guy originally from a small town near Boise. In the place where I grew up, town sizes are measured in the quantity of stop lights we have. Some towns are so small they have zero. My town was a 3 stop light town. Today, it has more. Before that we were in just a 1-blinking-light town. I grew up jumping off cliffs, bridges, and railroad trestles and doing flips off of rope swings into rivers, canals, and reservoirs. For work, I shoveled poo and cleaned cow stalls, dug ditches with a pick, chopped wood, bucked hay, fed cows, irrigated fields with siphon tubes, weeded gardens, and mowed grass.
 
 <details>
 <summary><b>(click to expand and learn more)</b></summary>
