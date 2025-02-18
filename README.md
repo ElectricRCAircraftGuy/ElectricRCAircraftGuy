@@ -10,12 +10,12 @@ _Working hard to make the internet more complete._
 
 I'm originally an Idaho country guy who grew up primarily in a small farming town, on a little farm, near Boise, ID. Where I grew up, town sizes are measured in the quantity of stop lights we have. Some towns are so small they have zero. My town was a 3 stop light town. Today, it has more. Before that we were in just a 1-blinking-light town. I grew up jumping off cliffs, bridges, and railroad trestles and doing flips off of rope swings into rivers, canals, and reservoirs. For work, I shoveled poo and cleaned cow stalls, dug ditches with a pick, chopped wood, bucked hay, fed cows, irrigated fields with siphon tubes, weeded gardens, and mowed grass.
 
-Now, I live in the San Francisco Bay area and work in San Francisco. 
+Now, I live in ~the San Francisco Bay area and work in San Francisco~ Sierra Vista, AZ. 
 
 <details>
 <summary><b>(click to expand and learn more)</b></summary>
 
-I'm trying to balance my life somehow as a husband, father, active Christian, and multi-faceted engineer. When I'm not busy trying to figure out how to better learn my job as a [senior embedded software engineer][linkedin], I'm trying to spend time with my two kids and wife, figure out how to make a Jekyll-based [website so I can write about my thoughts](https://gabrielstaples.com), and spend some time [flying my radio-controlled airplanes][3dhawk] or building or creating something.
+I'm trying to balance my life somehow as a ~husband,~ father, active Christian, and multi-faceted engineer. When I'm not busy trying to figure out how to better learn my job as a [senior embedded software engineer][linkedin], I'm trying to spend time with my three kids ~and wife~, figure out how to make a Jekyll-based [website so I can write about my thoughts](https://gabrielstaples.com), and spend some time [flying my radio-controlled airplanes][3dhawk] or building or creating something.
 
 I also programmed this gadget and [sell it on Amazon](https://www.amazon.com/Computa-Pranksta-Keyboard-Device-50-Settings/dp/B06ZYZ2GTB/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=wwwel-20&linkId=d0d2f1c2c4c1ad77d6de98d905f00ce7&language=en_US), and trying to do the business side of things and [handle customer support](https://github.com/ElectricRCAircraftGuy/eRCaGuy_ComputaPranksta_Support) takes a lot of my spare time.
 
